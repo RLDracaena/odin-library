@@ -40,8 +40,6 @@ submit.addEventListener("click", () => {
     }
 });
 
-
-
 // add a book to the library
 function addBooktoLibrary(){
 

@@ -41,6 +41,8 @@ body {
     background-color: var(--dark);
     border: 5px double var(--darker-green);
     border-radius: 16px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 h1 {
